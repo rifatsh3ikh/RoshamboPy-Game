@@ -4,7 +4,6 @@ import random
 ctk.set_appearance_mode("dark")
 app = ctk.CTk()
 app.iconbitmap("logo.ico") 
-# app.geometry("500x400")
 app.title("The Roshambo Game")
 app.geometry("500x550")
 
